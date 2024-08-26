@@ -1,0 +1,31 @@
+Saúde e bem-estar
+
+Aplicativo de saúde:
+-botão sos(tem q ficar apertado por 3 segundos com mensagem de confirmação);
+-upas, ubs e hospitais mais proximos;
+-central de informação com notificação de vacinas, doenças, surtos e descobertas;
+-perfil clínico do usuario;
+-incentivo a praticas de esportes( a cada atividade realizada o usuario ganhas 			pontos para trocar em discontos em futuras lojas parceiras);
+modo de implementação:
+	seria compativel com smartwatch por bluethoo ou aplicativo direto no 	relógio e tambem ia gps onde juntariamos a frequencia cardiaca com o 		movimento no gps para liberar os pontos;
+-monitoramento nutricional ligado aos pontos da atividade fisica;
+
+(uma implementação futura poderia ser o sos automatico ligado ao smartwatc monitorando sua frequencia cardiaca e preção e idade)
+
+-contato com medicos via  https://www.doctoralia.com.br/perguntas-respostas
+
+
+
+
+
+
+
+
+
+
+ Referencias e links no trabalho:
+
+medico24h https://medico24hs.com.br/?gad_source=1&gclid=EAIaIQobChMI0MiN8cqSiAMVEUBIAB1biiLREAAYAyAAEgKGSfD_BwE
+https://comunidade.pebmed.com.br/
+https://www.minhaconexao.com.br/blog/tech/smartwatch
+
